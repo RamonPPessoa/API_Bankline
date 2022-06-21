@@ -19,7 +19,7 @@ public class Correntista {
 	@Column(length = 20)
 	private String cpf;
 	
-	@Column(length = 00)
+	@Column(length = 60)
 	private String nome;
 	
 	
